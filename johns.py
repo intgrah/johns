@@ -25,6 +25,8 @@ RESPONSES = [
     "st john's: where ambition goes to punt",
     "heard john's library has one book and it's a map to trinity",
     "john's students don't need a may ball, any excuse to leave the college is celebration enough",
+    "formal at john's is just beans on toast with extra latin",
+    "even the ducks on the cam skip john's",
 ]
 
 
